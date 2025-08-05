@@ -8,8 +8,15 @@
 /wp-admin/
 /wp-content/index.php
 /wp-content/languages
+/wp-content/mu-plugins
+/wp-content/plugins
+/wp-content/upgrade
+/wp-content/uploads
 /wp-content/plugins/index.php
 /wp-content/themes/index.php
+/wp-content/themes/twentytwentyfive
+/wp-content/themes/twentytwentyfour
+/wp-content/themes/twentytwentythree
 /wp-includes/
 /index.php
 /license.txt
